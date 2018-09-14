@@ -1,0 +1,18 @@
+.submit_btn{
+    border: 0px;
+    width: 75px;
+    height: 50px;
+    background: url("s_s_c1359149f5ad5adcaebddac21b519bf9_w.jpeg");
+}
+
+li.user_nav.no_li {
+  list-style: none;
+}
+
+.namespace {
+  margin-right: 5px;
+}
+
+h3{
+  text-align: center;
+}
